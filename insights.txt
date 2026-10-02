@@ -1,0 +1,49 @@
+Sales Analysis - Key Insights
+
+1. Gender
+
+- Male, Female, and Other customers are almost equally distributed.
+- Male and Other customers generated more sales than Female customers.
+- Male customers generated the highest profit.
+
+2. Gender by Region
+
+- Central → Other gender had the most buyers.
+- West → Female customers had the most buyers.
+- East → Female customers had the most buyers.
+- North → Male customers had the most buyers.
+- South → Male customers had the most buyers.
+
+3. Region
+
+- South generated the highest sales amount and profit.
+- Central generated the lowest sales amount and profit.
+
+4. Age
+
+- The 30–40 age group generated the highest sales amount and profit.
+- Age 35 generated the highest sales amount and profit.
+- Among the buyers, Other gender customers aged 35 were the most common, followed by Female customers.
+
+5. City
+
+- Chennai generated the highest profit.
+
+6. Product Category
+
+- Electronics generated the highest profit.
+- Groceries had the lowest customer satisfaction.
+- Electronics had the highest number of returns.
+
+7. Product
+
+- Desk generated the highest profit.
+- Desk belongs to the Furniture category.
+
+8. Payment Method
+
+- UPI was the most commonly used payment method.
+
+9. Shipping
+
+- Most orders took 8 days to ship.
